@@ -1,6 +1,6 @@
 # bankist
 
-Digital bank service app.
+Digital bank service web app.
 
 ## How it Works
 
