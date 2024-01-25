@@ -12,9 +12,11 @@ Digital bank service web app.
 - **Jonas Scmedtmann**
   - Username: `js`
   - PIN: `1111`
+  - locale: `pt-PT`
 - **Mr Crow**
   - Username: `mc`
   - PIN: `2222`
+    locale: `en-US`
 
 ## Stack Used
 
